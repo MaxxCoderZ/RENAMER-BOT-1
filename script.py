@@ -1,23 +1,26 @@
 class script(object):
 
 
-    START_TEXT = """** Hai {}** , 
+    START_TEXT = """<b>Hello {},
+    
+I'm A Simple File Renamer Bot With Permanent Thumbnail support! 💯
 
-I am a Simple File Renamer Bot with  Permanent Thumbnail support
+Send me any Telegram file and select rename option.
 
-Send me any Telegram file and choose appropriate option!
+Click /help for more details....</b>
 
+<i>You must subscribe our channel in order to use me 😇</i>
 """
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @coderzsupport"
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @coderzHEX**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +30,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "<b>@coderzHEX | @renamerProNXbot</b>"
 
     HELP_USER = """
 
@@ -41,26 +44,20 @@ Send me any Telegram file and choose appropriate option!
 
 4. Send the new file when bot asks 
 
-
-<b>By @Ts_Bots</b>
+<i>if you found any bugs report it @coderzsupport</i>
 """
 
     ABOUT_TEXT = """
 
 **About Me**
 
-○ ᴍʏ ɴᴀᴍᴇ : 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Clone
+⭕️ My Name : Nexon Project's Renamer
 
-○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+⭕️ Creater : @Maxxcoderz
 
-○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+⭕️ Language : Python3
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+⭕️ Library : Pyrogram asyncio 0.16.1
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
-
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
-
+⭕️ Source Code : currently Locked
 """
