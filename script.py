@@ -51,7 +51,7 @@ Click /help for more details....</b>
 
 **About Me**
 
-⭕️ My Name : Nexon Project's Renamer
+⭕️ My Name :  Renamer Bot
 
 ⭕️ Creater : @Maxxcoderz
 
