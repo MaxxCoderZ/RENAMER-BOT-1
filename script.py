@@ -1,15 +1,15 @@
 class script(object):
 
 
-    START_TEXT = """<b>Hello {},
+    START_TEXT = """Hello {},
     
 I'm A Simple File Renamer Bot With Permanent Thumbnail support! 💯
 
 Send me any Telegram file and select rename option.
 
-Click /help for more details....</b>
+Click /help for more details....
 
-<i>You must subscribe our channel in order to use me 😇</i>
+You must subscribe our channel in order to use me 😇
 """
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
